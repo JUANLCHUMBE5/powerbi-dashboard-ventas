@@ -22,7 +22,7 @@ Analizar el desempeño comercial y facilitar la toma de decisiones mediante indi
 - Modelado de datos
 
 ## 📷 Vista del Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/tablero.png)
 
 ## 📁 Archivos
 - `Tablero_Ventas.pbix`: archivo editable del dashboard
